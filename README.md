@@ -1,4 +1,5 @@
-![Codeshare.io Logo](https://codeshare.io/-/img/codeshare-logo-small.svg)
+<img src="https://raw.githubusercontent.com/SamanDaneshvar/Codeshare-Plus/main/src/Codeshare%20Plus.svg" width="200" />
+
 # Codeshare Plus
 A bridge between the Codeshare.io interface and the programming interpreter installed on your computer.
 
