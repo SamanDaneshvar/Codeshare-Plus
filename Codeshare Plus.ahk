@@ -12,7 +12,8 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ; Basically, this script acts as a bridge between the Codeshare interface (open in your web browser) and the Python interpreter installed on your computer.
 
 ; Set the tray icon
-Menu, Tray, Icon, Codeshare.io.ico, 1, 0
+icon_path := A_ScriptDir . "\src\Codeshare Plus.ico"
+Menu, Tray, Icon, %icon_path%, 1, 0
 
 ; Set the tray icon's tooltip
 Menu, Tray, Tip, Codeshare Plus
