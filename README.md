@@ -19,4 +19,4 @@ Just download and run the executable file. Anytime you press the *F10* key in Co
 Codeshare Plus is written using AutoHotkey. Therefore, it is only available on Windows. The executable file is also made using AutoHotkey's built-in script compiler (Ahk2Exe).
 
 ## Disclaimer
-Codeshare Plus is free, and is not affiliated, associated with, authorized, endorsed by, or in any way officially connected with Codeshare.io. The name and logo of Codeshare are registered trademarks of Codeshare.io.
+Codeshare Plus is free, and is not affiliated, associated with, authorized, endorsed by, or in any way officially connected with Codeshare.io. The Codeshare name and logo are registered trademarks of Codeshare.io.
