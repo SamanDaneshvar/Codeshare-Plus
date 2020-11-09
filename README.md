@@ -16,7 +16,7 @@ Basically, *Codeshare Plus* acts as a bridge between the Codeshare.io interface 
 ## How to use it
 Just download and run the executable file. Anytime you press the *F10* key in Codeshare, this app would collect your code and run it in the local programming interpreter on your system. The default is Python, but you can change this to any interpreter of your choice in the settings.
 
-## More details
+## Implementation details
 Codeshare Plus is written using AutoHotkey. Therefore, it is only available on Windows. The executable file is also made using AutoHotkey's built-in script compiler (Ahk2Exe).
 
 ## Disclaimer
